@@ -885,7 +885,7 @@ footer {
    
   }
   .f-part{
-   padding-left: -5;
+   display: none;
    margin-bottom: 30px;
   }
   .lastbox ul {
